@@ -1,7 +1,8 @@
 # Google FooBar 2017 Challenge
+These are some challenges I did for fun.
 
-##Solved:
-###Level 1
+## Solved:
+### Level 1
 * Braille Converter
 
 ### Level 2 
