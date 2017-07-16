@@ -11,7 +11,8 @@ These are some challenges I did for fun.
 
 ### Level 3
 * Fuel Injection Perfection
+* The Grandest Staircase of Them All
+* Queue To Do
 
 ## Progress:
-### Level 3 
-* The Grandest Staircase of Them All
+### Level 4

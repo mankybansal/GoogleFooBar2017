@@ -4,7 +4,7 @@ import java.util.Comparator;
 /**
  * Created by mayankbansal on 7/15/17.
  */
-public class solutionP2 {
+public class SolutionP2 {
 
     public static int convert(String[] parts) {
         if (parts.length == 3)

@@ -3,7 +3,7 @@ import java.math.BigInteger;
 /**
  * Created by mayankbansal on 7/16/17.
  */
-public class solutionP1 {
+public class SolutionP1 {
 
     public static int answer(String n) {
         BigInteger number = new BigInteger(n);

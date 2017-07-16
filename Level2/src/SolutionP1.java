@@ -1,4 +1,4 @@
-public class solutionP1 {
+public class SolutionP1 {
 
     public static int answer(int total_lambs) {
         int powSum, powTwo, fibo[] = {
